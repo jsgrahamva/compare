@@ -1,0 +1,182 @@
+Accounts Receivable
+Admission, Discharge, Transfer (ADT)/Registration
+Anticoagulation Management Tool
+Automated Information Collection System (AICS)
+Automated Medical Information Exchange (AMIE)
+Automated Safety Incident Surveillance Tracking System (ASISTS)
+Bar Code Medication Administration (BCMA) Backup Utility
+Bed Management Solution (BMS)
+Beneficiary Travel
+Blind Rehabilitation/VIST
+Capacity Management Tools
+Care Management
+Caribou Community Living Care (CLC) Suite (Caribou)
+Clinical Case Registries (CCR)
+Clinical Case Registries: Hepatitis C (HepC)
+Clinical Case Registries: Human Immunodeficiency Virus (HIV)
+Clinical Context Object Workgroup
+Clinical Information Support System (CISS)
+Clinical Monitoring System
+Clinical Procedures
+Compensation and Pension Record Interchange (CAPRI)
+Consolidated Mail Output Pharmacy (CMOP)A
+CPRS: Adverse Reaction Tracking (ART)
+CPRS: Authorization/Subscription (ASU)
+CPRS: Consult/Request Tracking
+CPRS: Health Summary
+CPRS: Problem List
+CPRS: Text Integration Utilities (TIU)
+Cross Application Integration Protocol (CAIP)
+Diagnostic Related Grouper (DRG)
+DocManager
+Duplicate Record Merge
+Electronic Claims Management Engine (ECME) (AKA: ePharmacy)
+Electronic Claims Management Engine (ECME) (AKA: ePharmacy)
+Electronic Error and Enhancement Reporting (E3R)
+Electronic Signature (Esig)
+Emergency Department Integration Software (EDIS)
+Emerging Pathogens Initiative (EPI)
+Encoder Product Suite (EPS)
+Engineering (AEM/MERS)
+Enrollment Application System
+Enrollment Application System: Local Signed Means Test Application (ROSSIO 22)
+Enrollment Application System: Long Term Care (LTC) Copayment
+Enrollment System
+Enterprise Exception Log Services (EELS)
+Enterprise Health Management Platform
+Equipment /Turn-In Request
+Event Capture System
+Fat Client Kernel Authentication and Authorization (FatKAAT)
+Fee Basis
+FileMan Delphi Components (FDMC)
+Fugitive Felon Program (FFP)
+Functional Independence Measures (FIM)
+Generic Code Sheet
+Group Notes
+Health Data Informatics
+Health Data Repository
+Health Information Technology Sharing (HITS): Bi-Directional Health Information Exchange (BHIE) and Legacy Viewer Sustainment (LVS)
+Health Information Technology Sharing (HITS): Clinical Health Data Repository (CHDR)
+Health Information Technology Sharing (HITS): Federal Health Information Exchange (FHIE)
+Health Information Technology Sharing (HITS): Global War on Terror
+Health Information Technology Sharing (HITS): Laboratory Data Sharing and Interoperability (LDSI)
+Health Level 7 (HL7) (VistA Messaging)
+Health Level Seven Optimized (HLO) (VistA Messaging)
+Home Based Primary Care (HBPC)
+Home Telehealth/Integrated Home Telehealth (IHTA)
+Homeless Management Information (HMIS)
+Hospital Inquiry (HINQ)
+HOWDY Computerized Login Process
+Identity Management (IdM) Service
+Incident Reporting
+Income Verification Match (IVM)
+Incomplete Records Tracking (IRT)
+Intake and Output
+Integrated Billing (IB)
+Integrated Funds Distribution, Control Point Activity, Accounting and Procurement (IFCAP)
+Joint Legacy Viewer (JLV)
+Kernel
+Kernel Authentication & Authorization for Java 2 Enterprise Edition (KAAJEE)
+Kernel Delphi Components (KDC)
+Kernel Toolkit
+Kernel Unwinder
+Lexicon Utility
+Library
+List Manager
+Mailman
+Master Patient Index (MPI)
+Maximo (Max)
+Medical Domain Web Services (MDWS)
+Medicine
+Mental Health
+Mental Health Suite
+Messaging and Interface Services Program (M&IS)
+Methicillin Resistant Staphylococcus Aureus Program Tools (MRSA-PT)
+Mobile Electronic Documentation
+M-to-M Broker
+My HealtheVet
+National Laboratory Tests Documents and LOINC Request Form
+National Patch Module (NPM)
+National Provider Identifier (NPI)
+National Utilization Management Integration (NUMI)
+Network Health Exchange (NHE)
+Nursing
+Nutrition and Food Service (N&FS)
+Occupational Health Recordkeeping System (OHRS)
+Occurrence Screen
+Oncology
+Patient Advocate Tracking System (PATS)
+Patient Care Encounter (PCE)
+Patient Centered Management Module (PCMM Web)
+Patient Data Exchange (PDX)
+Patient Record Flags (PRF)
+Patient Representative
+Personnel and Accounting Integrated Data (PAID)
+Personnel and Accounting Integrated Data (PAID): Enhanced Time and Attendance (ETA)
+Pharmacy: Automatic Replenishment/Ward Stock (AR/WS)
+Pharmacy: Bar Code Medication Administration (BCMA)
+Pharmacy: Controlled Substances
+Pharmacy: Drug Accountability/Inventory Interface
+Pharmacy: Inpatient Medications
+Pharmacy: Inpatient Medications - Intravenous (IV)
+Pharmacy: Inpatient Medications - Unit Dose (UD)
+Pharmacy: Medication Order Check Healthcare Application (MOCHA)
+Pharmacy: National Drug File (NDF)
+Pharmacy: Outpatient Pharmacy
+Pharmacy: Pharmacy Benefits Management (PBM)
+Pharmacy: Pharmacy Data Management (PDM)
+Pharmacy: Pharmacy Enterprise Customization System (PECS)
+Pharmacy: Pharmacy Product System - National Registries (PSS-N)
+Primary Care Management Module
+Prosthetics
+Quality Audiology and Speech Analysis and Reporting (QUASAR)
+Quality Management Integration Module
+Radiology/Nuclear Medicine
+Record Tracking
+Remote Order Entry System (ROES)
+Remote Procedure Call Broker (RPC)
+Repositories: Administrative Data Repository (ADR)
+Repositories: Clinical Data Repository/Health Data Repository (CHDR)
+Resident Assessment Instrument/Minimum Data Set (RAI/MDS)
+Resource Usage Monitor (RUM)
+Scheduling
+Shift Handoff Tool
+Single Sign On/User Context (SSO/UC)
+SlotMaster (Kernel ZSLOT)
+Social Work
+Spinal Cord Injury and Disorders Outcomes (SCIDO)
+SQL Interface (SQLI)
+Standards and Terminology Services (STS)
+Statistical Analysis of Global Growth (SAGG)
+Surgery
+Survey Generator
+Telecare Record Manager (TRM)
+Traumatic Brain Injury Registry (TBI)
+VA FileMan
+Veterans Crisis Line (VCL)
+Veterans Health Identification Card (VHIC)
+Veterans Personal Finance System (VPFS)
+Veterans Point of Service
+Virtual Electronic eHealth Exchange (VLER)
+Virtual Patient Record (VPR)
+VistA - Blood Establishment Computer Software
+VistA - CPRS: Clinical Reminders
+VistA - CPRS: Order Entry/Results Reporting
+VistA - Laboratory
+VistA - Laboratory: Anatomic Pathology (AP)
+VistA - Laboratory: Blood Bank
+VistA - Laboratory: Electronic Data Interchange
+VistA - Laboratory: Point of Care
+VistA - Laboratory: Universal Interface
+VistA - Women's Health
+VistA Chemotherapy Manager (VCM)
+VistA Data Extraction Framework (VDEF)
+VistA Imaging System
+VistALink
+VistAWeb
+Visual Impairment Service Team
+Vitals/Measurements
+Voluntary Service System
+Web VistA Remote Access Management (WebVRAM)
+Wounded, Injured and Ill Veterans
+XML Parser

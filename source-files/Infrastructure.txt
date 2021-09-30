@@ -1,0 +1,35 @@
+Capacity Management Tools (KMPD)	Medical Domain Web Services (MDWS)
+Capacity Management Tools (KMPD) - ARCHIVE	Name Standardization
+Duplicate Record Merge: Patient Merge	Name Standardization - ARCHIVE
+Duplicate Record Merge: Patient Merge - ARCHIVE	National Online Information Sharing (NOIS) - DECOMMISSIONED MAR 2005
+Electronic Error and Enhancement Reporting (E3R)	National Patch Module (NPM)
+Enterprise Exception Log Service (EELS)	National Patch Module (NPM) - ARCHIVE
+FatKAAT	Network Health Exchange (NHE) (AFJX)
+FileMan (DI)	Network Health Exchange (NHE) (AFJX) - ARCHIVE
+FileMan (DI) - ARCHIVE	Patient Data Exchange (PDX) (VAQ)
+FileMan Delphi Components (FMDC)	Patient Data Exchange (PDX) (VAQ) - ARCHIVE
+FileMan Delphi Components (FMDC) - ARCHIVE	Remote Procedure Call (RPC) Broker
+Health Data Informatics	Remote Procedure Call (RPC) Broker - ARCHIVE
+Health Data Informatics - ARCHIVE	Resource Usage Monitor (RUM)
+HL7 (VistA Messaging)	Resource Usage Monitor (RUM) - ARCHIVE
+HL7 (VistA Messaging) - ARCHIVE	Single Signon/User Context (SSO/UC)
+Institution File Redesign (IFR)	Single Signon/User Context (SSO/UC) - ARCHIVE
+Institution File Redesign (IFR) - ARCHIVE	SlotMaster (Kernel ZSLOT)
+KAAJEE	SlotMaster (Kernel ZSLOT) - ARCHIVE
+KAAJEE - ARCHIVE	SQL Interface (SQLI)
+Kernel (XU)	SQL Interface (SQLI) - ARCHIVE
+Kernel (XU) - ARCHIVE	Standard Files and Tables
+Kernel Delphi Components (KDC)	Standard Files and Tables - ARCHIVE
+Kernel Delphi Components (KDC) - ARCHIVE	Statistical Analysis of Global Growth (SAGG)
+Kernel Toolkit (XT)	Statistical Analysis of Global Growth (SAGG) - ARCHIVE
+Kernel Toolkit (XT) - ARCHIVE	Survey Generator (QAP)
+Kernel Unwinder (XQOR)	Survey Generator (QAP)- ARCHIVE
+Kernel Unwinder (XQOR) - ARCHIVE	System Toolkit (STK)
+List Manager	VistA Data Extraction Framework (VDEF)
+List Manager - ARCHIVE	VistA Data Extraction Framework (VDEF) - ARCHIVE
+M-to-M Broker	VistA System Monitor (VSM) (KMPV)
+M-to-M Broker - ARCHIVE	VistA System Monitor (VSM) (KMPV) - ARCHIVE
+MailMan (XM)	VistALink (XOBV)
+Mailman (XM) - ARCHIVE	VistALink (XOBV) - ARCHIVE
+Master Patient Index (MPIF)	XML Parser (VistA)
+Master Patient Index (MPIF) - ARCHIVE	XML Parser (VistA) - ARCHIVE

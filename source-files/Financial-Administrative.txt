@@ -1,0 +1,36 @@
+Accounts Receivable (AR) (PRCA)	Health Eligibility Center (HEC) (IVMB) - ARCHIVE
+Accounts Receivable (AR) (PRCA) - ARCHIVE	Hospital Inquiry (HINQ)
+Automated Information Collection System (AICS) (IBD)	Hospital Inquiry (HINQ) - ARCHIVE
+Automated Information Collection System (AICS) (IBD) - ARCHIVE	ICD-9-CM
+Automated Medical Information Exchange (AMIE) (DVBA)	IFCAP (PRC)
+Automated Medical Information Exchange (AMIE) (DVBA) - ARCHIVE	IFCAP (PRC) - ARCHIVE
+Automated Safety Incident Surveillance Tracking System (OOPS)-DECOMMISSIONED JAN 2019	Incident Reporting (QAN)
+Bed Management Solution (BMS)	Incident Reporting (QAN) - ARCHIVE
+Bed Management Solution (BMS) - ARCHIVE	Income Verification Match (IVM)
+Clinical Monitoring System (QAM)	Income Verification Match (IVM) - ARCHIVE
+Clinical Monitoring System (QAM) - ARCHIVE	Integrated Billing (IB)
+Compensation and Pension Record Interchange (CAPRI)	Integrated Billing (IB) - ARCHIVE
+Compensation and Pension Record Interchange (CAPRI) - ARCHIVE	Integrated Patient Funds (PRPF)
+Current Procedural Terminology (CPT)	Integrated Patient Funds (PRPF) - ARCHIVE
+Current Procedural Terminology (CPT)- ARCHIVE	Library (LBR) - DECOMMISSIONED MAY 2018
+Decision Support System (DSS) Extracts	Occurrence Screen (QAO)
+Decision Support System (DSS) Extracts - ARCHIVE	Occurrence Screen (QAO) - ARCHIVE
+Diagnostic Related Group (DRG) Grouper	Patient Representative (QAC)
+Diagnostic Related Group (DRG) Grouper - ARCHIVE	Patient Representative (QAC) - ARCHIVE
+Electronic Claims Management Engine (ECME)	Personnel and Accounting Integrated Data (PAID) (PRS)
+Electronic Claims Management Engine (ECME) - ARCHIVE	Personnel and Accounting Integrated Data (PAID) (PRS) - ARCHIVE
+Engineering (AEMS / MERS) (EN)	Police and Security (ES) - DECOMMISSIONED MAY 2009
+Engineering (AEMS / MERS) (EN) - ARCHIVE	Quality Management Integration Module
+Enrollment Application System (EAS)	Quality Management Integration Module - ARCHIVE
+Enrollment Application System (EAS) - ARCHIVE	Record Tracking (RT)
+Equipment / Turn-In Request (PRCN)	Record Tracking (RT) - ARCHIVE
+Equipment / Turn-In Request (PRCN) - ARCHIVE	Release of Information (ROI) Manager
+Event Capture System (ECS) (EC)	Release of Information (ROI) Manager - ARCHIVE
+Event Capture System (ECS) (EC) - ARCHIVE	Veterans Identification Card (VIC/PICS)
+Fee Basis (FB)	Veterans Identification Card (VIC/PICS) - ARCHIVE
+Fee Basis (FB) - ARCHIVE	Voluntary Service System (VSS)
+Fugitive Felon Program (FFP)	Voluntary Service System (VSS) - ARCHIVE
+Fugitive Felon Program (FFP) - ARCHIVE	WebHR
+Generic Code Sheet (GCS) (GEN)	Wounded Ill and Injured Warriors (WII)
+Generic Code Sheet (GCS) (GEN) - ARCHIVE	Wounded Ill and Injured Warriors (WII) - ARCHIVE
+Health Eligibility Center (HEC) (IVMB)

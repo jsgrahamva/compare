@@ -1,0 +1,300 @@
+|||||Data Source|||Data Location||VA Programs 2019-2024
+Namespace|Monograph Name|Section|Section Name|Status
+PRCA|Accounts Receivable|Financial-Administrative|Accounts Receivable (AR) (PRCA)|
+||Clinicals|Admission Discharge Transfer (ADT)|
+DG|Admission, Discharge, Transfer (ADT)/Registration|||
+||Clinicals|Ambulatory Care Reporting (ACR)|
+OR|Anticoagulation Management Tool|Clinicals|Anticoagulation Management Tool (AMT)|
+IBD|Automated Information Collection System (AICS)|Financial-Administrative|Automated Information Collection System (AICS) (IBD)|
+DVBA|Automated Medical Information Exchange (AMIE)|Financial-Administrative|Automated Medical Information Exchange (AMIE) (DVBA)|
+OOPS|Automated Safety Incident Surveillance Tracking System (ASISTS)|||
+||Financial-Administrative|Automated Safety Incident Surveillance Tracking System (OOPS)-DECOMMISSIONED JAN 2019|
+||Clinicals|Automated Service Connected Designation (ASCD)|
+||Clinicals|Bar Code Expansion (BCE) (MJCF)|
+PSB or BCBU|Bar Code Medication Administration (BCMA) Backup Utility|||
+WEBB|Bed Management Solution (BMS)|||
+DGBT|Beneficiary Travel|Clinicals|Beneficiary Travel (DGBT)|
+||Clinicals|Blind Rehabilitation (ANRV)|
+ANRV|Blind Rehabilitation/VIST|||
+GMRA|CPRS: Adverse Reaction Tracking (ART)|Clinicals|CPRS: Adverse Reaction Tracking (ART) (GMRA)|
+||Clinicals|CPRS: Authorization Subscription Utility (ASU)|
+USR|CPRS: Authorization/Subscription (ASU)|||
+||Clinicals|CPRS: Bulk Parameter Editor for Notifications|
+||Clinicals|CPRS: Clinical Reminders (PXRM)|
+GMRC|CPRS: Consult/Request Tracking|Clinicals|CPRS: Consult/Request Tracking (GMRC)|
+GMTS|CPRS: Health Summary|Clinicals|CPRS: Health Summary (GMTS)|
+GMPL|CPRS: Problem List|Clinicals|CPRS: Problem List (GMPL)|
+TIU|CPRS: Text Integration Utilities (TIU)|||
+||Clinicals|CPRS: Text Integration Utility (TIU)|
+KMPD|Capacity Management Tools|Infrastructure|Capacity Management Tools (KMPD)|
+ORRC|Care Management|Clinicals|Care Management (ORRC)|DEC 2019
+DSIB|Caribou Community Living Care (CLC) Suite (Caribou)|||
+ROR|Clinical Case Registries (CCR)|||
+ROR|Clinical Case Registries: Hepatitis C (HepC)|||
+ROR|Clinical Case Registries: Human Immunodeficiency Virus (HIV)|||
+XWB|Clinical Context Object Workgroup|||
+CISS|Clinical Information Support System (CISS)|||
+QAM|Clinical Monitoring System|Financial-Administrative|Clinical Monitoring System (QAM)|
+MD|Clinical Procedures|Clinicals|Clinical Procedures (MD)|
+||Clinicals|Clinical/Health Data Repository (CHDR)|
+||Clinicals|Community Care Referral and Authorization (CCRA)|
+||Clinicals|Community Viewer (CV) (WEBE)|
+DVBA|Compensation and Pension Record Interchange (CAPRI)|||
+||Clinicals|Computerized Patient Record System (CPRS)|
+PSX|Consolidated Mail Output Pharmacy (CMOP)A|||
+|Cross Application Integration Protocol (CAIP)|||
+||Financial-Administrative|Current Procedural Terminology (CPT)|
+||Financial-Administrative|Decision Support System (DSS) Extracts|
+||Clinicals|Dentistry (DRM+)|
+||Financial-Administrative|Diagnostic Related Group (DRG) Grouper|
+ICD|Diagnostic Related Grouper (DRG)|||
+||Vista-GUI Hybrids|Direct Secure Messaging (WEBD)|
+DSIV|DocManager|||
+XDR|Duplicate Record Merge|||
+||Infrastructure|Duplicate Record Merge: Patient Merge|
+||Financial-Administrative|Electronic Claims Management Engine (ECME)|
+ECME (BPS?)|Electronic Claims Management Engine (ECME) (AKA: ePharmacy)|||
+NTSE|Electronic Error and Enhancement Reporting (E3R)|||
+||Vista-GUI Hybrids|Electronic Signature (ESig) (XOBE)|
+XOBE|Electronic Signature (Esig)|||
+||Clinicals|Electronic Wait List|MAR 2021
+EDP|Emergency Department Integration Software (EDIS)|||
+LR|Emerging Pathogens Initiative (EPI)|||
+DSIP|Encoder Product Suite (EPS)|||
+EN|Engineering (AEM/MERS)|||
+||Financial-Administrative|Engineering (AEMS / MERS) (EN)|
+EAS|Enrollment Application System|Financial-Administrative|Enrollment Application System (EAS)|
+EAS|Enrollment Application System: Local Signed Means Test Application (ROSSIO 22)|||
+EAS|Enrollment Application System: Long Term Care (LTC) Copayment|||
+N/A|Enrollment System|||
+||Infrastructure|Enterprise Exception Log Service (EELS)|
+SVE|Enterprise Exception Log Services (EELS)|||
+HMP|Enterprise Health Management Platform|||
+||Clinicals|Enterprise Terminology Service (ETS)|
+||Financial-Administrative|Equipment / Turn-In Request (PRCN)|
+PRCN|Equipment /Turn-In Request|||
+EC|Event Capture System|Financial-Administrative|Event Capture System (ECS) (EC)|
+XU|Fat Client Kernel Authentication and Authorization (FatKAAT)|||
+||Infrastructure|FatKAAT|
+FB|Fee Basis|Financial-Administrative|Fee Basis (FB)|
+||Infrastructure|FileMan (DI)|
+FMDC|FileMan Delphi Components (FDMC)|||
+||Infrastructure|FileMan Delphi Components (FMDC)|
+DGFFP|Fugitive Felon Program (FFP)|||
+||Clinicals|Functional Independence Measurement (FIM)|
+RMIM|Functional Independence Measures (FIM)|||
+GEC|Generic Code Sheet|Financial-Administrative|Generic Code Sheet (GCS) (GEN)|
+OR|Group Notes|||
+||Clinicals|HDR - Historical (HDR-Hx)|
+||Infrastructure|HL7 (VistA Messaging)|
+LR|HOWDY Computerized Login Process|||
+HDI|Health Data Informatics|||
+HDS|Health Data Repository|||
+||Financial-Administrative|Health Eligibility Center (HEC) (IVMB)|
+|Health Information Technology Sharing (HITS): Bi-Directional Health Information Exchange (BHIE) and Legacy Viewer Sustainment (LVS)|||
+CHDR|Health Information Technology Sharing (HITS): Clinical Health Data Repository (CHDR)|||
+Multiple|Health Information Technology Sharing (HITS): Federal Health Information Exchange (FHIE)|||
+Multiple|Health Information Technology Sharing (HITS): Global War on Terror|||
+LR|Health Information Technology Sharing (HITS): Laboratory Data Sharing and Interoperability (LDSI)|||
+HL|Health Level 7 (HL7) (VistA Messaging)|||
+HL|Health Level Seven Optimized (HLO) (VistA Messaging)|||
+||Clinicals|Health Management Platform|OCT 2017
+||Vista-GUI Hybrids|HealtheVet Web Services Client (HWSC) (XOBW)|
+HBH|Home Based Primary Care (HBPC)|||
+||Clinicals|Home Telehealth|
+DGHT, WEBI|Home Telehealth/Integrated Home Telehealth (IHTA)|||
+|Homeless Management Information (HMIS)|||
+DVB|Hospital Inquiry (HINQ)|||
+||Financial-Administrative|ICD-9-CM|
+||Financial-Administrative|IFCAP (PRC)|
+N/A|Identity Management (IdM) Service|||
+||Clinicals|Immunology Case Registry (ICR)|NOV 2005
+QAN|Incident Reporting|Financial-Administrative|Incident Reporting (QAN)|
+IVM|Income Verification Match (IVM)|||
+DGJ|Incomplete Records Tracking (IRT)|Clinicals|Incomplete Records Tracking (IRT) (DGJ)|
+||Infrastructure|Institution File Redesign (IFR)|
+GMRY|Intake and Output|||
+IB|Integrated Billing (IB)|||
+PRC|Integrated Funds Distribution, Control Point Activity, Accounting and Procurement (IFCAP)|||
+||Financial-Administrative|Integrated Patient Funds (PRPF)|
+JLV|Joint Legacy Viewer (JLV)|||
+||Clinicals|Joint Longitudinal Viewer (JLV)|
+||Infrastructure|KAAJEE|
+XU, XPD|Kernel|Infrastructure|Kernel (XU)|
+XU|Kernel Authentication & Authorization for Java 2 Enterprise Edition (KAAJEE)|||
+KDC|Kernel Delphi Components (KDC)|||
+XT|Kernel Toolkit|Infrastructure|Kernel Toolkit (XT)|
+XQOR|Kernel Unwinder|Infrastructure|Kernel Unwinder (XQOR)|
+||Clinicals|Laboratory (LA and LR)|
+||Clinicals|Laboratory: Anatomic Pathology|
+|Laboratory: Blood Bank Workarounds|Clinicals|Laboratory: Blood Bank|
+||Clinicals|Laboratory: Electronic Data Interchange (LEDI)|
+||Clinicals|Laboratory: Emerging Pathogens Initiative (EPI)|
+||Clinicals|Laboratory: Howdy Computerized Phlebotomy Login Process|
+||Clinicals|Laboratory: National Laboratory Tests (NLT) Documents and LOINC Request Form|
+||Clinicals|Laboratory: Point of Care (POC)|
+||Clinicals|Laboratory: Universal Interface|
+||Clinicals|Laboratory: VistA Blood Establishment Computer Software (VBECS)|
+LEX|Lexicon Utility|Clinicals|Lexicon Utility (LEX)|
+LBR|Library|Financial-Administrative|Library (LBR)|MAY 2018
+||Vista-GUI Hybrids|Lighthouse (LHS)|
+VALM|List Manager|||
+XWB|M-to-M Broker|||
+||Infrastructure|MailMan (XM)|
+XM|Mailman|||
+MPIF|Master Patient Index (MPI)|||
+||Infrastructure|Master Patient Index (MPIF)|
+|Maximo (Max)|||
+MWSV|Medical Domain Web Services (MDWS)|||
+MC|Medicine|Clinicals|Medicine (MC)|
+YS|Mental Health|Clinicals|Mental Health (YS)|
+DSIU|Mental Health Suite|||
+|Messaging and Interface Services Program (M&IS)|||
+||Clinicals|Methicillin Resistant Staph Aurerus (MRSA) (MMRS)|
+MMRS|Methicillin Resistant Staphylococcus Aureus Program Tools (MRSA-PT)|||
+|Mobile Electronic Documentation|Clinicals|Mobile Electronic Documentation (MED)|
+||Clinicals|Mobile Scheduling Applications Suite (MBAA)|
+MHV|My HealtheVet|Vista-GUI Hybrids|My HealtheVet (MHV)|
+||Infrastructure|Name Standardization|
+LR|National Laboratory Tests Documents and LOINC Request Form|||
+||Infrastructure|National Online Information Sharing (NOIS)|MAR 2005
+A1AE|National Patch Module (NPM)|||
+XU|National Provider Identifier (NPI)|||
+WEBN|National Utilization Management Integration (NUMI)|||
+||Clinicals|Nationwide Health Information Network Adapter (NHIN)|
+AFJX|Network Health Exchange (NHE)|Infrastructure|Network Health Exchange (NHE) (AFJX)|
+NUR|Nursing|Clinicals|Nursing (NUR)|
+||Clinicals|Nutrition and Food Service (FH)|
+FH|Nutrition and Food Service (N&FS)|||
+||Vista-GUI Hybrids|Occupational Health Record-keeping System (OHRS)|AUG 2019
+OHRS|Occupational Health Recordkeeping System (OHRS)|||
+QAO|Occurrence Screen|Financial-Administrative|Occurrence Screen (QAO)|
+ONC|Oncology|||
+QACV (QAC for patches)|Patient Advocate Tracking System (PATS)|Vista-GUI Hybrids|Patient Advocate Tracking System (PATS) (QAC)|
+||Clinicals|Patient Appointment Info. Transmission (PAIT)|
+||Clinicals|Patient Assessment Documentation Package (PADP) (NUPA)|
+PX|Patient Care Encounter (PCE)|Clinicals|Patient Care Encounter (PCE) (PX)|
+WEBP|Patient Centered Management Module (PCMM Web)|Clinicals|Patient Centered Management Module (PCMM Web) (WEBP)|
+VAQ|Patient Data Exchange (PDX)|Infrastructure|Patient Data Exchange (PDX) (VAQ)|
+|Patient Record Flags (PRF)|Clinicals|Patient Record Flags|
+QAC|Patient Representative|Financial-Administrative|Patient Representative (QAC)|
+||Vista-GUI Hybrids|Person Services|
+PRS|Personnel and Accounting Integrated Data (PAID)|Financial-Administrative|Personnel and Accounting Integrated Data (PAID) (PRS)|
+PRS|Personnel and Accounting Integrated Data (PAID): Enhanced Time and Attendance (ETA)|||
+||Clinicals|Pharmacy: API|
+||Clinicals|Pharmacy: Advanced Medication Platform (PREA)|
+||Clinicals|Pharmacy: Automatic Replenish / Ward Stock (AR/WS)|
+PSGW|Pharmacy: Automatic Replenishment/Ward Stock (AR/WS)|||
+PSB|Pharmacy: Bar Code Medication Administration (BCMA)|Clinicals|Pharmacy: Bar Code Medication Administration (BCMA) (PSB)|
+||Clinicals|Pharmacy: Benefits Management (PSU)|
+||Clinicals|Pharmacy: Consolidated Mail Outpatient Pharmacy (PSX)|
+PSD|Pharmacy: Controlled Substances|Clinicals|Pharmacy: Controlled Substances (PSD)|
+||Clinicals|Pharmacy: Data Management (PSS)|
+||Clinicals|Pharmacy: Drug Accountability (PSA)|
+PSA|Pharmacy: Drug Accountability/Inventory Interface|||
+PSJ|Pharmacy: Inpatient Medications|Clinicals|Pharmacy: Inpatient Medications (PSJ)|
+PSJ|Pharmacy: Inpatient Medications - Intravenous (IV)|||
+PSJ|Pharmacy: Inpatient Medications - Unit Dose (UD)|||
+PREM|Pharmacy: Medication Order Check Healthcare Application (MOCHA)|Vista-GUI Hybrids|Pharmacy: Medication Order Check Healthcare Application (MOCHA) (PREM)|
+PSN|Pharmacy: National Drug File (NDF)|Clinicals|Pharmacy: National Drug File (NDF) (PSN)|
+PSO|Pharmacy: Outpatient Pharmacy|Clinicals|Pharmacy: Outpatient Pharmacy (PSO)|
+PSU|Pharmacy: Pharmacy Benefits Management (PBM)|||
+PSS|Pharmacy: Pharmacy Data Management (PDM)|||
+||Vista-GUI Hybrids|Pharmacy: Pharmacy Data Update (DATUP) (PRED)|
+PREC|Pharmacy: Pharmacy Enterprise Customization System (PECS)|||
+||Vista-GUI Hybrids|Pharmacy: Pharmacy Product System - National (PPS-N)|
+PPS-N|Pharmacy: Pharmacy Product System - National Registries (PSS-N)|||
+||Clinicals|Pharmacy: Prescription Practices (PPP)|
+||Financial-Administrative|Police and Security (ES)|MAY 2009
+SD|Primary Care Management Module|Clinicals|Primary Care Management Module (PCMM)|
+RMPR|Prosthetics|Clinicals|Prosthetics (RMPR)|
+ACKQ|Quality Audiology and Speech Analysis and Reporting (QUASAR)|Clinicals|Quality Audiology and Speech Analysis and Reporting (QUASAR) (ACKQ)|
+QAQ|Quality Management Integration Module|||
+||Clinicals|RAI/MDS|
+RA|Radiology/Nuclear Medicine|Clinicals|Radiology/Nuclear Medicine (RA)|
+RT|Record Tracking|Financial-Administrative|Record Tracking (RT)|
+||Vista-GUI Hybrids|Registries|
+||Clinicals|Registry: Airborne Hazard Open Burn Pit (AHOBPR) (PXRM)|
+||Clinicals|Registry: Breast Cancer (BCR) (ROEB)|
+||Clinicals|Registry: Clinical Case (CCR) (ROR)|
+||Clinicals|Registry: Embedded Fragments (EFR)|
+||Clinicals|Registry: Military Eye Vision Injury (MEVIR) (ROEV)|
+||Clinicals|Registry: Multiple Sclerosis Surveillance (MSSR) (ROEG)|
+||Clinicals|Registry: National Clozapine Coordination|
+||Clinicals|Registry: Oncology (ONC)|
+||Clinicals|Registry: Traumatic Brain Injury (TBI)|
+||Financial-Administrative|Release of Information (ROI) Manager|
+RMPF|Remote Order Entry System (ROES)|||
+||Infrastructure|Remote Procedure Call (RPC) Broker|
+XWB|Remote Procedure Call Broker (RPC)|||
+Multiple|Repositories: Administrative Data Repository (ADR)|||
+CHDR|Repositories: Clinical Data Repository/Health Data Repository (CHDR)|||
+DGRU|Resident Assessment Instrument/Minimum Data Set (RAI/MDS)|||
+KMPR|Resource Usage Monitor (RUM)|||
+DI|SQL Interface (SQLI)|||
+SD, SC|Scheduling|Clinicals|Scheduling (SD)|
+CRHD|Shift Handoff Tool|Clinicals|Shift Handoff Tool (CRHD)|
+XU|Single Sign On/User Context (SSO/UC)|||
+||Infrastructure|Single Signon/User Context (SSO/UC)|
+ZSL|SlotMaster (Kernel ZSLOT)|||
+SOW|Social Work|Clinicals|Social Work (SOW)|JUL 2020
+||Clinicals|Spinal Cord Dysfunction (SPN)|APR 2019
+SPN|Spinal Cord Injury and Disorders Outcomes (SCIDO)|Vista-GUI Hybrids|Spinal Cord Injury and Disorders Outcomes (SCIDO) (SPN)|
+||Infrastructure|Standard Files and Tables|
+||Clinicals|Standards & Terminology Services (STS)|
+Multiple|Standards and Terminology Services (STS)|||
+KMPS|Statistical Analysis of Global Growth (SAGG)|||
+SR|Surgery|Clinicals|Surgery (SR)|
+QAP|Survey Generator|Infrastructure|Survey Generator (QAP)|
+||Infrastructure|System Toolkit (STK)|
+DSIT|Telecare Record Manager (TRM)|||
+||Clinicals|Telehealth Management Platform (TMP)|
+TBI|Traumatic Brain Injury Registry (TBI)|||
+||Vista-GUI Hybrids|VA Enrollment System (VES)|
+DI|VA FileMan|||
+||Vista-GUI Hybrids|VHA Point of Service (Kiosks)|
+||Clinicals|Veterans Authorization and Preferences (VAP)|
+VCL|Veterans Crisis Line (VCL)|||
+WEBC|Veterans Health Identification Card (VHIC)|||
+||Clinicals|Veterans Health Information Exchange (VHIE) Portal|
+||Financial-Administrative|Veterans Identification Card (VIC/PICS)|
+||Vista-GUI Hybrids|Veterans Online Debt Access (VODA)|
+VPFS|Veterans Personal Finance System (VPFS)|||
+VPS|Veterans Point of Service|||
+|Virtual Electronic eHealth Exchange (VLER)|||
+VPR|Virtual Patient Record (VPR)|||
+VBEC|VistA - Blood Establishment Computer Software|||
+PXRM|VistA - CPRS: Clinical Reminders|||
+OR|VistA - CPRS: Order Entry/Results Reporting|||
+LR and LA|VistA - Laboratory|||
+LR|VistA - Laboratory: Anatomic Pathology (AP)|||
+LR|VistA - Laboratory: Blood Bank|||
+LR|VistA - Laboratory: Electronic Data Interchange|||
+LR|VistA - Laboratory: Point of Care|||
+LA|VistA - Laboratory: Universal Interface|||
+WV|VistA - Women's Health|||
+DSIQ|VistA Chemotherapy Manager (VCM)|||
+VDEF|VistA Data Extraction Framework (VDEF)|||
+MAG|VistA Imaging System|Clinicals|VistA Imaging System (MAG)|
+||Clinicals|VistA Integration Adapter (VIA) (VIAB)|
+||Infrastructure|VistA System Monitor (VSM) (KMPV)|
+||Vista-GUI Hybrids|VistA/GUI Hybrids (formerly HealtheVet)|
+XOBV|VistALink|Infrastructure|VistALink (XOBV)|
+WEBV|VistAWeb|Clinicals|VistAWeb (WEBV)|FEB 2020
+ANRV|Visual Impairment Service Team|Clinicals|Visual Impairment Service Team (VIST) (ANRV)|
+GMRV|Vitals/Measurements|Clinicals|Vitals/Measurements (GMRV)|
+VSS|Voluntary Service System|Financial-Administrative|Voluntary Service System (VSS)|
+WEBG|Web VistA Remote Access Management (WebVRAM)|||
+||Clinicals|Web VistA Remote Access Mgmt (WEBVRAM) (WEBG)|
+||Financial-Administrative|WebHR|
+||Clinicals|Womens Health (WV)|
+||Financial-Administrative|Wounded Ill and Injured Warriors (WII)|
+WII|Wounded, Injured and Ill Veterans|||
+MXML|XML Parser|Infrastructure|XML Parser (VistA)|
+
+Number of products:
+Monograph: 182
+Clinicals: 98
+Financial-Administrative: 31
+Infrastructure: 26
+Vista-GUI Hybrids: 17

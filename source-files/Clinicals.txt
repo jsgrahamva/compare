@@ -1,0 +1,102 @@
+Admission Discharge Transfer (ADT)	Nursing (NUR)
+Admission Discharge Transfer (ADT) - ARCHIVE	Nursing (NUR) - ARCHIVE
+Ambulatory Care Reporting (ACR)	Nutrition and Food Service (FH)
+Ambulatory Care Reporting (ACR) - ARCHIVE	Nutrition and Food Service (FH) - ARCHIVE
+Anticoagulation Management Tool (AMT)	Patient Appointment Info. Transmission (PAIT)
+Anticoagulation Management Tool (AMT) - ARCHIVE	Patient Appointment Info. Transmission (PAIT) - ARCHIVE
+Automated Service Connected Designation (ASCD)	Patient Assessment Documentation Package (PADP) (NUPA)
+Automated Service Connected Designation (ASCD) - ARCHIVE	Patient Assessment Documentation Package (PADP) (NUPA) - ARCHIVE
+Bar Code Expansion (BCE) (MJCF)	Patient Care Encounter (PCE) (PX)
+Bar Code Expansion (BCE) (MJCF) - ARCHIVE	Patient Care Encounter (PCE) (PX) - ARCHIVE
+Beneficiary Travel (DGBT)	Patient Centered Management Module (PCMM Web) (WEBP)
+Beneficiary Travel (DGBT) - ARCHIVE	Patient Centered Management Module (PCMM Web) (WEBP) - ARCHIVE
+Blind Rehabilitation (ANRV)	Patient Record Flags
+Blind Rehabilitation (ANRV) - ARCHIVE	Patient Record Flags - ARCHIVE
+Care Management (ORRC) - DECOMMISSIONED DEC 2019	Pharmacy: Advanced Medication Platform (PREA)
+Clinical Procedures (MD)	Pharmacy: Advanced Medication Platform (PREA) - ARCHIVE
+Clinical Procedures (MD) - ARCHIVE	Pharmacy: API
+Clinical/Health Data Repository (CHDR)	Pharmacy: API - ARCHIVE
+Clinical/Health Data Repository (CHDR) - ARCHIVE	Pharmacy: Automatic Replenish / Ward Stock (AR/WS)
+Community Care Referral and Authorization (CCRA)	Pharmacy: Automatic Replenish / Ward Stock (AR/WS) - ARCHIVE
+Community Care Referral and Authorization (CCRA) - ARCHIVE	Pharmacy: Bar Code Medication Administration (BCMA) (PSB)
+Community Viewer (CV) (WEBE)	Pharmacy: Bar Code Medication Administration (BCMA) (PSB) - ARCHIVE
+Community Viewer (CV) (WEBE) - ARCHIVE	Pharmacy: Benefits Management (PSU)
+Computerized Patient Record System (CPRS)	Pharmacy: Benefits Management (PSU) - ARCHIVE
+Computerized Patient Record System (CPRS) - ARCHIVE	Pharmacy: Consolidated Mail Outpatient Pharmacy (PSX)
+CPRS: Adverse Reaction Tracking (ART) (GMRA)	Pharmacy: Consolidated Mail Outpatient Pharmacy (PSX) - ARCHIVE
+CPRS: Adverse Reaction Tracking (ART) (GMRA)- ARCHIVE	Pharmacy: Controlled Substances (PSD)
+CPRS: Authorization Subscription Utility (ASU)	Pharmacy: Controlled Substances (PSD) - ARCHIVE
+CPRS: Authorization Subscription Utility (ASU)- ARCHIVE	Pharmacy: Data Management (PSS)
+CPRS: Bulk Parameter Editor for Notifications	Pharmacy: Data Management (PSS) - ARCHIVE
+CPRS: Bulk Parameter Editor for Notifications - ARCHIVE	Pharmacy: Drug Accountability (PSA)
+CPRS: Clinical Reminders (PXRM)	Pharmacy: Drug Accountability (PSA) - ARCHIVE
+CPRS: Clinical Reminders (PXRM) - ARCHIVE	Pharmacy: Inpatient Medications (PSJ)
+CPRS: Consult/Request Tracking (GMRC)	Pharmacy: Inpatient Medications (PSJ) - ARCHIVE
+CPRS: Consult/Request Tracking (GMRC) - ARCHIVE	Pharmacy: National Drug File (NDF) (PSN)
+CPRS: Health Summary (GMTS)	Pharmacy: National Drug File (NDF) (PSN) - ARCHIVE
+CPRS: Health Summary (GMTS) - ARCHIVE	Pharmacy: Outpatient Pharmacy (PSO)
+CPRS: Problem List (GMPL)	Pharmacy: Outpatient Pharmacy (PSO) - ARCHIVE
+CPRS: Problem List (GMPL) - ARCHIVE	Pharmacy: Prescription Practices (PPP)
+CPRS: Text Integration Utility (TIU)	Pharmacy: Prescription Practices (PPP) - ARCHIVE
+CPRS: Text Integration Utility (TIU) - ARCHIVE	Primary Care Management Module (PCMM)
+Dentistry (DRM+)	Primary Care Management Module (PCMM) - ARCHIVE
+Dentistry (DRM+) - ARCHIVE	Prosthetics (RMPR)
+Electronic Wait List - DECOMMISSIONED MAR 2021	Prosthetics (RMPR) - ARCHIVE
+Emergency Department Integration Software (EDIS)	Quality Audiology and Speech Analysis and Reporting (QUASAR) (ACKQ)
+Emergency Department Integration Software (EDIS) - ARCHIVE	Quality Audiology and Speech Analysis and Reporting (QUASAR) (ACKQ) - ARCHIVE
+Enterprise Terminology Service (ETS)	Radiology/Nuclear Medicine (RA)
+Enterprise Terminology Service (ETS) - ARCHIVE	Radiology/Nuclear Medicine (RA) - ARCHIVE
+Functional Independence Measurement (FIM)	RAI/MDS
+Functional Independence Measurement (FIM) - ARCHIVE	RAI/MDS - ARCHIVE
+Group Notes	Registry: Airborne Hazard Open Burn Pit (AHOBPR) (PXRM)
+Group Notes - ARCHIVE	Registry: Airborne Hazard Open Burn Pit (AHOBPR) (PXRM) - ARCHIVE
+HDR - Historical (HDR-Hx)	Registry: Breast Cancer (BCR) (ROEB)
+HDR - Historical (HDR-Hx) - ARCHIVE	Registry: Breast Cancer (BCR) (ROEB) - ARCHIVE
+Health Management Platform - DECOMMISSIONED OCT 2017	Registry: Clinical Case (CCR) (ROR)
+Home Based Primary Care (HBPC)	Registry: Clinical Case (CCR) (ROR) - ARCHIVE
+Home Based Primary Care (HBPC) - ARCHIVE	Registry: Embedded Fragments (EFR)
+Home Telehealth	Registry: Embedded Fragments (EFR) - ARCHIVE
+Home Telehealth - ARCHIVE	Registry: Military Eye Vision Injury (MEVIR) (ROEV)
+Immunology Case Registry (ICR) - DECOMMISSIONED NOV 2005	Registry: Military Eye Vision Injury (MEVIR) (ROEV) - ARCHIVE
+Incomplete Records Tracking (IRT) (DGJ)	Registry: Multiple Sclerosis Surveillance (MSSR) (ROEG)
+Incomplete Records Tracking (IRT) (DGJ) - ARCHIVE	Registry: Multiple Sclerosis Surveillance (MSSR) (ROEG) - ARCHIVE
+Intake and Output	Registry: National Clozapine Coordination
+Intake and Output - ARCHIVE	Registry: National Clozapine Coordination - ARCHIVE
+Joint Longitudinal Viewer (JLV)	Registry: Oncology (ONC)
+Joint Longitudinal Viewer (JLV) - ARCHIVE	Registry: Oncology (ONC) - ARCHIVE
+Laboratory (LA and LR)	Registry: Traumatic Brain Injury (TBI)
+Laboratory (LA and LR) - ARCHIVE	Registry: Traumatic Brain Injury (TBI) - ARCHIVE
+Laboratory: Anatomic Pathology	Remote Order Entry System (ROES)
+Laboratory: Anatomic Pathology - ARCHIVE	Remote Order Entry System (ROES) - ARCHIVE
+Laboratory: Blood Bank	Scheduling (SD)
+Laboratory: Blood Bank - ARCHIVE	Scheduling (SD) - ARCHIVE
+Laboratory: Blood Bank Workarounds	Shift Handoff Tool (CRHD)
+Laboratory: Blood Bank Workarounds - ARCHIVE	Shift Handoff Tool (CRHD) - ARCHIVE
+Laboratory: Electronic Data Interchange (LEDI)	Social Work (SOW) - DECOMMISSIONED JUL 2020
+Laboratory: Electronic Data Interchange (LEDI) - ARCHIVE	Spinal Cord Dysfunction (SPN) - DECOMMISSIONED APR 2019
+Laboratory: Emerging Pathogens Initiative (EPI)	Standards & Terminology Services (STS)
+Laboratory: Emerging Pathogens Initiative (EPI) - ARCHIVE	Standards & Terminology Services (STS) - ARCHIVE
+Laboratory: Howdy Computerized Phlebotomy Login Process	Surgery (SR)
+Laboratory: Howdy Computerized Phlebotomy Login Process - ARCHIVE	Surgery (SR) - ARCHIVE
+Laboratory: National Laboratory Tests (NLT) Documents and LOINC Request Form	Telehealth Management Platform (TMP)
+Laboratory: National Laboratory Tests (NLT) Documents and LOINC Request Form - ARCHIVE	Telehealth Management Platform (TMP) - ARCHIVE
+Laboratory: Point of Care (POC)	Veterans Authorization and Preferences (VAP)
+Laboratory: Point of Care (POC) - ARCHIVE	Veterans Authorization and Preferences (VAP) - ARCHIVE
+Laboratory: Universal Interface	Veterans Health Information Exchange (VHIE) Portal
+Laboratory: Universal Interface - ARCHIVE	Veterans Health Information Exchange (VHIE) Portal - ARCHIVE
+Laboratory: VistA Blood Establishment Computer Software (VBECS)	Virtual Patient Record (VPR)
+Laboratory: VistA Blood Establishment Computer Software (VBECS) - ARCHIVE	Virtual Patient Record (VPR) - ARCHIVE
+Lexicon Utility (LEX)	VistA Imaging System (MAG)
+Lexicon Utility (LEX) - ARCHIVE	VistA Imaging System (MAG) - ARCHIVE
+Medicine (MC)	VistA Integration Adapter (VIA) (VIAB)
+Medicine (MC) - ARCHIVE	VistA Integration Adapter (VIA) (VIAB) - ARCHIVE
+Mental Health (YS)	VistAWeb (WEBV) - DECOMMISSIONED FEB 2020
+Mental Health (YS) - ARCHIVE	Visual Impairment Service Team (VIST) (ANRV)
+Methicillin Resistant Staph Aurerus (MRSA) (MMRS)	Visual Impairment Service Team (VIST) (ANRV) - ARCHIVE
+Methicillin Resistant Staph Aurerus (MRSA) (MMRS) - ARCHIVE	Vitals/Measurements (GMRV)
+Mobile Electronic Documentation (MED)	Vitals/Measurements (GMRV) - ARCHIVE
+Mobile Electronic Documentation (MED) - ARCHIVE	Web VistA Remote Access Mgmt (WEBVRAM) (WEBG)
+Mobile Scheduling Applications Suite (MBAA)	Web VistA Remote Access Mgmt (WEBVRAM) (WEBG) - ARCHIVE
+Mobile Scheduling Applications Suite (MBAA) - ARCHIVE	Womens Health (WV)
+Nationwide Health Information Network Adapter (NHIN)	Womens Health (WV) - ARCHIVE
+Nationwide Health Information Network Adapter (NHIN) - ARCHIVE

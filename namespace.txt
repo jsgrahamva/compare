@@ -1,0 +1,182 @@
+Accounts Receivable	PRCA
+Admission, Discharge, Transfer (ADT)/Registration	DG
+Anticoagulation Management Tool	OR
+Automated Information Collection System (AICS)	IBD
+Automated Medical Information Exchange (AMIE)	DVBA
+Automated Safety Incident Surveillance Tracking System (ASISTS)	OOPS
+Bar Code Medication Administration (BCMA) Backup Utility	PSB or BCBU
+Bed Management Solution (BMS)	WEBB
+Beneficiary Travel	DGBT
+Blind Rehabilitation/VIST	ANRV
+Capacity Management Tools	KMPD
+Care Management	ORRC
+Caribou Community Living Care (CLC) Suite (Caribou)	DSIB
+Clinical Case Registries (CCR)	ROR
+Clinical Case Registries: Hepatitis C (HepC)	ROR
+Clinical Case Registries: Human Immunodeficiency Virus (HIV)	ROR
+Clinical Context Object Workgroup	XWB
+Clinical Information Support System (CISS)	CISS
+Clinical Monitoring System	QAM
+Clinical Procedures	MD
+Compensation and Pension Record Interchange (CAPRI)	DVBA
+Consolidated Mail Output Pharmacy (CMOP)A	PSX
+CPRS: Adverse Reaction Tracking (ART)	GMRA
+CPRS: Authorization/Subscription (ASU)	USR
+CPRS: Consult/Request Tracking	GMRC
+CPRS: Health Summary	GMTS
+CPRS: Problem List	GMPL
+CPRS: Text Integration Utilities (TIU)	TIU
+Cross Application Integration Protocol (CAIP)	
+Diagnostic Related Grouper (DRG)	ICD
+DocManager	DSIV
+Duplicate Record Merge	XDR
+Electronic Claims Management Engine (ECME) (AKA: ePharmacy)	BPS
+Electronic Claims Management Engine (ECME) (AKA: ePharmacy)	ECME (BPS?)
+Electronic Error and Enhancement Reporting (E3R)	NTSE
+Electronic Signature (Esig)	XOBE
+Emergency Department Integration Software (EDIS)	EDP
+Emerging Pathogens Initiative (EPI)	LR
+Encoder Product Suite (EPS)	DSIP
+Engineering (AEM/MERS)	EN
+Enrollment Application System	EAS
+Enrollment Application System: Local Signed Means Test Application (ROSSIO 22)	EAS
+Enrollment Application System: Long Term Care (LTC) Copayment	EAS
+Enrollment System	N/A
+Enterprise Exception Log Services (EELS)	SVE
+Enterprise Health Management Platform	HMP
+Equipment /Turn-In Request	PRCN
+Event Capture System	EC
+Fat Client Kernel Authentication and Authorization (FatKAAT)	XU
+Fee Basis	FB
+FileMan Delphi Components (FDMC)	FMDC
+Fugitive Felon Program (FFP)	DGFFP
+Functional Independence Measures (FIM)	RMIM
+Generic Code Sheet	GEC
+Group Notes	OR
+Health Data Informatics	HDI
+Health Data Repository	HDS
+Health Information Technology Sharing (HITS): Bi-Directional Health Information Exchange (BHIE) and Legacy Viewer Sustainment (LVS)	
+Health Information Technology Sharing (HITS): Clinical Health Data Repository (CHDR)	CHDR
+Health Information Technology Sharing (HITS): Federal Health Information Exchange (FHIE)	Multiple
+Health Information Technology Sharing (HITS): Global War on Terror	Multiple
+Health Information Technology Sharing (HITS): Laboratory Data Sharing and Interoperability (LDSI)	LR
+Health Level 7 (HL7) (VistA Messaging)	HL
+Health Level Seven Optimized (HLO) (VistA Messaging)	HL
+Home Based Primary Care (HBPC)	HBH
+Home Telehealth/Integrated Home Telehealth (IHTA)	DGHT, WEBI
+Homeless Management Information (HMIS)	
+Hospital Inquiry (HINQ)	DVB
+HOWDY Computerized Login Process	LR
+Identity Management (IdM) Service	N/A
+Incident Reporting	QAN
+Income Verification Match (IVM)	IVM
+Incomplete Records Tracking (IRT)	DGJ
+Intake and Output	GMRY
+Integrated Billing (IB)	IB
+Integrated Funds Distribution, Control Point Activity, Accounting and Procurement (IFCAP)	PRC
+Joint Legacy Viewer (JLV)	JLV
+Kernel	XU, XPD
+Kernel Authentication & Authorization for Java 2 Enterprise Edition (KAAJEE)	XU
+Kernel Delphi Components (KDC)	KDC
+Kernel Toolkit	XT
+Kernel Unwinder	XQOR
+Lexicon Utility	LEX
+Library	LBR
+List Manager	VALM
+Mailman	XM
+Master Patient Index (MPI)	MPIF
+Maximo (Max)	
+Medical Domain Web Services (MDWS)	MWSV
+Medicine	MC
+Mental Health	YS
+Mental Health Suite	DSIU
+Messaging and Interface Services Program (M&IS)	
+Methicillin Resistant Staphylococcus Aureus Program Tools (MRSA-PT)	MMRS
+Mobile Electronic Documentation	
+M-to-M Broker	XWB
+My HealtheVet	MHV
+National Laboratory Tests Documents and LOINC Request Form	LR
+National Patch Module (NPM)	A1AE
+National Provider Identifier (NPI)	XU
+National Utilization Management Integration (NUMI)	WEBN
+Network Health Exchange (NHE)	AFJX
+Nursing	NUR
+Nutrition and Food Service (N&FS)	FH
+Occupational Health Recordkeeping System (OHRS)	OHRS
+Occurrence Screen	QAO
+Oncology	ONC
+Patient Advocate Tracking System (PATS)	QACV (QAC for patches)
+Patient Care Encounter (PCE)	PX
+Patient Centered Management Module (PCMM Web)	WEBP
+Patient Data Exchange (PDX)	VAQ
+Patient Record Flags (PRF)	DGPF
+Patient Representative	QAC
+Personnel and Accounting Integrated Data (PAID)	PRS
+Personnel and Accounting Integrated Data (PAID): Enhanced Time and Attendance (ETA)	PRS
+Pharmacy: Automatic Replenishment/Ward Stock (AR/WS)	PSGW
+Pharmacy: Bar Code Medication Administration (BCMA)	PSB
+Pharmacy: Controlled Substances	PSD
+Pharmacy: Drug Accountability/Inventory Interface	PSA
+Pharmacy: Inpatient Medications	PSJ
+Pharmacy: Inpatient Medications - Intravenous (IV)	PSJ
+Pharmacy: Inpatient Medications - Unit Dose (UD)	PSJ
+Pharmacy: Medication Order Check Healthcare Application (MOCHA)	PREM
+Pharmacy: National Drug File (NDF)	PSN
+Pharmacy: Outpatient Pharmacy	PSO
+Pharmacy: Pharmacy Benefits Management (PBM)	PSU
+Pharmacy: Pharmacy Data Management (PDM)	PSS
+Pharmacy: Pharmacy Enterprise Customization System (PECS)	PREC
+Pharmacy: Pharmacy Product System - National Registries (PSS-N)	PPS-N
+Primary Care Management Module	SD
+Prosthetics	RMPR
+Quality Audiology and Speech Analysis and Reporting (QUASAR)	ACKQ
+Quality Management Integration Module	QAQ
+Radiology/Nuclear Medicine	RA
+Record Tracking	RT
+Remote Order Entry System (ROES)	RMPF
+Remote Procedure Call Broker (RPC)	XWB
+Repositories: Administrative Data Repository (ADR)	Multiple
+Repositories: Clinical Data Repository/Health Data Repository (CHDR)	CHDR
+Resident Assessment Instrument/Minimum Data Set (RAI/MDS)	DGRU
+Resource Usage Monitor (RUM)	KMPR
+Scheduling	SD, SC
+Shift Handoff Tool	CRHD
+Single Sign On/User Context (SSO/UC)	XU
+SlotMaster (Kernel ZSLOT)	ZSL
+Social Work	SOW
+Spinal Cord Injury and Disorders Outcomes (SCIDO)	SPN
+SQL Interface (SQLI)	DI
+Standards and Terminology Services (STS)	Multiple
+Statistical Analysis of Global Growth (SAGG)	KMPS
+Surgery	SR
+Survey Generator	QAP
+Telecare Record Manager (TRM)	DSIT
+Traumatic Brain Injury Registry (TBI)	TBI
+VA FileMan	DI
+Veterans Crisis Line (VCL)	VCL
+Veterans Health Identification Card (VHIC)	WEBC
+Veterans Personal Finance System (VPFS)	VPFS
+Veterans Point of Service	VPS
+Virtual Electronic  eHealth Exchange (VLER)	NHIN
+Virtual Patient Record (VPR)	VPR
+VistA - Blood Establishment Computer Software	VBEC
+VistA - CPRS: Clinical Reminders	PXRM
+VistA - CPRS: Order Entry/Results Reporting	OR
+VistA - Laboratory	LR and LA
+VistA - Laboratory: Anatomic Pathology (AP)	LR
+VistA - Laboratory: Blood Bank	LR
+VistA - Laboratory: Electronic Data Interchange	LR
+VistA - Laboratory: Point of Care	LR
+VistA - Laboratory: Universal Interface	LA
+VistA - Women's Health	WV
+VistA Chemotherapy Manager (VCM)	DSIQ
+VistA Data Extraction Framework (VDEF)	VDEF
+VistA Imaging System	MAG
+VistALink	XOBV
+VistAWeb	WEBV
+Visual Impairment Service Team	ANRV
+Vitals/Measurements	GMRV
+Voluntary Service System	VSS
+Web VistA Remote Access Management (WebVRAM)	WEBG
+Wounded, Injured and Ill Veterans	WII
+XML Parser	MXML

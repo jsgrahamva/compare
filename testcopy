@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+awk -f compare3.awk namespace.txt ./source-files/*Copy.txt

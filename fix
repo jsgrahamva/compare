@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+routine=$1
+date > datetime.txt 
+awk -v routine=$routine -f fix.awk datetime.txt
