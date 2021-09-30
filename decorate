@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+# log statement
+
+git log --oneline --decorate --graph --all
